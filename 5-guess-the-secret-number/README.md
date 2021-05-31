@@ -1,3 +1,5 @@
+## Challenge 5 - Guess the Secret Number
+
 ### Important Links 
 I've written a [companion blog post](https://andersonsingh.com/capture-the-ether-guess-the-secret-number/) for this solution which explains the logic used to solve the challenge. 
 
